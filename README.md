@@ -1,2 +1,1 @@
-# HTML-Basics
-learning the simple fundamentals of using the html tags and how to use them
+In this project, I am learning the basics/fundementals of using html tags.Such as the boiler plate, and displaying content in the body tags. Which means that all tags nested within the body tag are the children of the body tag.
